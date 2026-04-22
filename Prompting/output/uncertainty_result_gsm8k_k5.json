@@ -1,0 +1,161 @@
+[
+    {
+        "dataset_idx": 4833,
+        "occurrence": {
+            "114": 2,
+            "11": 1,
+            "25": 1,
+            "30": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 3457,
+        "occurrence": {
+            "1000": 2,
+            "4": 1,
+            "200": 1,
+            "100": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 5862,
+        "occurrence": {
+            "56": 1,
+            "10": 2,
+            "3": 1,
+            "150": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 5189,
+        "occurrence": {
+            "30": 1,
+            "223": 2,
+            "5": 1,
+            "150": 1
+        },
+        "disagreement": 4
+    },
+    {
+        "dataset_idx": 7373,
+        "occurrence": {
+            "120": 2,
+            "4": 2,
+            "150": 1
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 3248,
+        "occurrence": {
+            "6": 2,
+            "8": 1,
+            "5": 2
+        },
+        "disagreement": 3
+    },
+    {
+        "dataset_idx": 1458,
+        "occurrence": {
+            "108": 4,
+            "18": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 3620,
+        "occurrence": {
+            "24": 4,
+            "2": 1
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 3341,
+        "occurrence": {
+            "12000": 1,
+            "9500": 4
+        },
+        "disagreement": 2
+    },
+    {
+        "dataset_idx": 6312,
+        "occurrence": {
+            "18": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 5032,
+        "occurrence": {
+            "66": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 1914,
+        "occurrence": {
+            "1350": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 1258,
+        "occurrence": {
+            "22": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 5173,
+        "occurrence": {
+            "40": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 1740,
+        "occurrence": {
+            "3450": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 1770,
+        "occurrence": {
+            "800": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 6698,
+        "occurrence": {
+            "7": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 4207,
+        "occurrence": {
+            "26": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 4307,
+        "occurrence": {
+            "360000": 5
+        },
+        "disagreement": 1
+    },
+    {
+        "dataset_idx": 4225,
+        "occurrence": {
+            "20": 5
+        },
+        "disagreement": 1
+    }
+]

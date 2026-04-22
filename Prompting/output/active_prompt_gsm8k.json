@@ -1,0 +1,29 @@
+{
+    "prompt": [
+        {
+            "question": "John wants to start a zoo.  He has 15 snakes.  He has twice as many monkeys as he does snakes.  He has 5 fewer lions than he does monkeys.   John has 8 more pandas than he does lions.  John has 1/3 as many dogs as he does pandas.  How many total animals does John have?",
+            "rationale": "John has 15 snakes. He has twice as many monkeys as snakes, so he has 15 * 2 = 30 monkeys. He has 5 fewer lions than monkeys, so he has 30 - 5 = 25 lions. He has 8 more pandas than lions, so he has 25 + 8 = 33 pandas. He has 1/3 as many dogs as pandas, so he has 33 / 3 = 11 dogs. To find the total number of animals, we add all the animals together: 15 snakes + 30 monkeys + 25 lions + 33 pandas + 11 dogs = 114 animals.",
+            "pred_ans": "114"
+        },
+        {
+            "question": "An old pirate wants to leave his treasure on an island. He has 3500 gold coins. He wants to spread this equally across 5 chests. Additionally, he will put a total of 500 silver coins and twice as many bronze coins as silver, all distributed equally across the chests. How many coins in total will be in each chest?",
+            "rationale": "The pirate has 3500 gold coins to distribute equally across 5 chests. Dividing 3500 by 5 gives 700 gold coins per chest. He also has 500 silver coins to distribute equally, which means each chest gets 500 / 5 = 100 silver coins. Additionally, he has twice as many bronze coins as silver coins, so he has 2 * 500 = 1000 bronze coins. Distributing these equally across the 5 chests gives 1000 / 5 = 200 bronze coins per chest. Therefore, each chest contains 700 gold coins + 100 silver coins + 200 bronze coins = 1000 coins in total.",
+            "pred_ans": "1000"
+        },
+        {
+            "question": "Arnold owns three cars. The first car averages 50 miles per gallon of gas. The second car averages 10 miles per gallon of gas. And the third car averages 15 miles per gallon of gas. He splits his 450-mile monthly driving mileage equally amongst his three cars.  If gas costs $2 per gallon, how much does he spend on gas each month?",
+            "rationale": "Arnold drives each car for 450 miles / 3 cars = 150 miles per car each month. For the first car, which averages 50 miles per gallon, he uses 150 miles / 50 miles per gallon = 3 gallons of gas. For the second car, which averages 10 miles per gallon, he uses 150 miles / 10 miles per gallon = 15 gallons of gas. For the third car, which averages 15 miles per gallon, he uses 150 miles / 15 miles per gallon = 10 gallons of gas. In total, Arnold uses 3 + 15 + 10 = 28 gallons of gas each month. At $2 per gallon, he spends 28 gallons * $2 per gallon = $56 on gas each month.",
+            "pred_ans": "56"
+        },
+        {
+            "question": "4 friends are running a 4 x 100 relay race.  Mary ran first and took twice as long as Susan.  Susan ran second and she took 10 seconds longer than Jen.  Jen ran third and finished in 30 seconds.  Tiffany ran the last leg and finished in 7 seconds less than Mary.  How many seconds did it take the team to finish the race?",
+            "rationale": "To solve the problem, we need to determine the time each runner took and then sum these times. Let's denote the time taken by Jen as J, which is given as 30 seconds. Susan took 10 seconds longer than Jen, so Susan's time is J + 10 = 30 + 10 = 40 seconds. Mary took twice as long as Susan, so Mary's time is 2 * 40 = 80 seconds. Tiffany took 7 seconds less than Mary, so Tiffany's time is 80 - 7 = 73 seconds. Now, we sum the times of all four runners: Mary (80 seconds) + Susan (40 seconds) + Jen (30 seconds) + Tiffany (73 seconds) = 223 seconds. Therefore, the total time taken by the team to finish the race is 223 seconds.",
+            "pred_ans": "223"
+        },
+        {
+            "question": "Hank reads the newspaper every morning, 5 days a week for 30 minutes.  He reads part of a novel every evening, 5 days a week, for 1 hour.  He doubles his reading time on Saturday and Sundays.  How many minutes does Hank spend reading in 1 week?",
+            "rationale": "Hank reads the newspaper for 30 minutes each morning, 5 days a week. This totals 30 minutes x 5 days = 150 minutes. He reads a novel for 1 hour (60 minutes) each evening, 5 days a week. This totals 60 minutes x 5 days = 300 minutes. On weekends, he doubles his reading time. For the newspaper, he reads 30 minutes x 2 = 60 minutes each day on Saturday and Sunday, totaling 60 minutes x 2 days = 120 minutes. For the novel, he reads 60 minutes x 2 = 120 minutes each day on Saturday and Sunday, totaling 120 minutes x 2 days = 240 minutes. Adding all these, the total reading time in a week is 150 minutes (weekday newspaper) + 300 minutes (weekday novel) + 120 minutes (weekend newspaper) + 240 minutes (weekend novel) = 810 minutes.",
+            "pred_ans": "810"
+        }
+    ]
+}
